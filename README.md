@@ -17,4 +17,4 @@ The objective of this challenge was to create a dashboard using plotly and JavaS
 As can be seen at the top of the readme, the website has been enhanced with a custom image for the top banner, and text descriptions have been added for each chart. In addition, the webpage has been adapted to be mobile-responsive.
 
 ## Website Link
-The webpage has been deployed and is accessible at: 
+The webpage has been deployed and is accessible at: https://chris-bly.github.io/Belly_Button/
